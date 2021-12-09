@@ -30,6 +30,11 @@ p{
     margin: auto;
     display: block;
     margin-top: 1rem;
+    padding: 0.4rem;
+    background-color: transparent;
+    color: #ADEFD1FF;
+    border: 1px solid #ADEFD1FF;
+    border-radius: 0.5rem;
 }
 
 .link {
